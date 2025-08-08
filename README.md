@@ -4,7 +4,7 @@
 
 ---
 
-![Graphviz Example](images/example_graph.png)
+![Graphviz Example](example_graph.png)
 
 ## 📂 Project Description
 
